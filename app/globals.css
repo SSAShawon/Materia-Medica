@@ -1,26 +1,78 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Brand Colors */
+  --forest-950: #0f3d35;
+  --forest-900: #145a4a;
+  --forest-800: #1b6b58;
+
+  --ivory-50: #faf9f5;
+  --ivory-100: #f5f3ec;
+
+  --gold-500: #c9a227;
+  --gold-400: #d4af37;
+
+  --rose-400: #c97878;
+  --rose-300: #d98f91;
+
+  --sage-200: #ddebe5;
+  --sage-100: #e8f1ec;
+
+  --text-primary: #18201d;
+  --text-secondary: #66736d;
+
+  --border: #dde4df;
+
+  /* Semantic Colors */
+  --background: var(--ivory-50);
+  --foreground: var(--text-primary);
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+
+  --color-forest-950: var(--forest-950);
+  --color-forest-900: var(--forest-900);
+  --color-forest-800: var(--forest-800);
+
+  --color-ivory-50: var(--ivory-50);
+  --color-ivory-100: var(--ivory-100);
+
+  --color-gold-500: var(--gold-500);
+  --color-gold-400: var(--gold-400);
+
+  --color-rose-400: var(--rose-400);
+  --color-rose-300: var(--rose-300);
+
+  --color-sage-200: var(--sage-200);
+  --color-sage-100: var(--sage-100);
+
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+
+  --color-border: var(--border);
+
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: var(--sage-200);
+  color: var(--forest-950);
 }

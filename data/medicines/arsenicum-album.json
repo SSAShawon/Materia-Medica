@@ -1,0 +1,354 @@
+{
+  "id": "MED-001",
+  "slug": "arsenicum-album",
+  "name": "Arsenicum Album",
+  "commonName": "Arsenic Trioxide",
+  "scientificName": "Arsenicum album",
+  "abbreviation": "Ars.",
+  "synonyms": [
+    "Arsenic Trioxide",
+    "White Arsenic"
+  ],
+
+  "source": "Mineral",
+  "origin": "Inorganic mineral substance",
+  "naturalOrder": "Mineral",
+  "family": "Inorganic compound",
+  "kingdom": "Mineral",
+  "partUsed": "Arsenic trioxide",
+  "preparation": "Prepared according to the traditional homeopathic pharmacopoeial method",
+
+  "sphereOfAction": [
+    "Nervous system",
+    "Digestive system",
+    "Respiratory system",
+    "Skin",
+    "Circulatory system"
+  ],
+
+  "drugPicture": {
+    "generalPicture": "A traditional Materia Medica picture characterized by marked anxiety, restlessness, weakness and sensitivity.",
+    "generalCharacteristics": [
+      "Marked restlessness",
+      "Anxiety",
+      "Weakness",
+      "Sensitivity to external influences"
+    ],
+    "typicalConstitution": "Weak, sensitive and anxious constitution",
+    "temperament": "Anxious and restless",
+    "generalTendencies": [
+      "Marked weakness",
+      "Restlessness",
+      "Sensitivity"
+    ],
+    "characteristicFeatures": [
+      "Anxiety with restlessness",
+      "Marked prostration",
+      "Fastidious tendency"
+    ]
+  },
+
+  "keySymptoms": {
+    "keynotes": [
+      "Marked anxiety and restlessness",
+      "Great weakness or prostration",
+      "Fastidiousness"
+    ],
+    "guidingSymptoms": [
+      "Restlessness with anxiety",
+      "Weakness out of proportion to the complaint"
+    ],
+    "characteristicSymptoms": [
+      "Anxiety with restlessness",
+      "Marked weakness",
+      "Sensitivity to cold"
+    ],
+    "indicatingSymptoms": [
+      "Restlessness despite weakness",
+      "Anxiety about health"
+    ]
+  },
+
+  "mind": {
+    "general": [
+      "Anxious",
+      "Restless",
+      "Fastidious"
+    ],
+    "fear": [
+      "Fear of death",
+      "Fear of being alone"
+    ],
+    "anxiety": [
+      "Anxiety about health",
+      "Anxiety about the future"
+    ],
+    "irritability": [
+      "Irritable when disturbed"
+    ],
+    "restlessness": [
+      "Constant need to change position"
+    ],
+    "desires": [
+      "Desire for order and cleanliness"
+    ],
+    "aversions": [
+      "Aversion to disorder"
+    ]
+  },
+
+  "physicalGenerals": {
+    "constitution": "Weak and sensitive constitution",
+    "temperament": "Anxious and restless",
+    "thermalState": "Chilly",
+    "heatSensitivity": "Sensitive to heat in some conditions",
+    "coldSensitivity": "Marked sensitivity to cold",
+    "weakness": [
+      "Great weakness",
+      "Prostration"
+    ],
+    "sensitivity": [
+      "Sensitive to external influences"
+    ],
+    "generalTendencies": [
+      "Restlessness",
+      "Weakness",
+      "Chilliness"
+    ]
+  },
+
+  "causation": [
+    "Exposure to cold",
+    "Food-related disturbances",
+    "Emotional stress",
+    "Exhaustion"
+  ],
+
+  "modalities": {
+    "aggravation": [
+      "After midnight",
+      "Cold",
+      "Cold food or drinks",
+      "Being alone"
+    ],
+    "amelioration": [
+      "Warmth",
+      "Warm applications",
+      "Company"
+    ]
+  },
+
+  "foodAndAppetite": {
+    "appetite": "Variable appetite",
+    "cravings": [
+      "Warm drinks"
+    ],
+    "aversions": [
+      "Cold foods"
+    ],
+    "thirst": "Frequent thirst for small quantities",
+    "aggravations": [
+      "Cold food and drinks"
+    ],
+    "ameliorations": [
+      "Warm drinks"
+    ]
+  },
+
+  "sleepAndDreams": {
+    "sleep": [
+      "Restless sleep",
+      "Difficulty settling"
+    ],
+    "insomnia": [
+      "Insomnia associated with anxiety and restlessness"
+    ],
+    "dreams": [
+      "Anxious dreams"
+    ]
+  },
+
+  "particulars": {
+    "head": [
+      "Headache associated with weakness and anxiety"
+    ],
+    "eyes": [
+      "Burning sensations may be described traditionally"
+    ],
+    "nose": [
+      "Nasal symptoms with irritation"
+    ],
+    "face": [
+      "Anxious facial expression"
+    ],
+    "mouth": [
+      "Dryness of mouth"
+    ],
+    "throat": [
+      "Burning and irritation"
+    ],
+    "git": [
+      "Digestive disturbance",
+      "Burning sensations",
+      "Weakness associated with gastrointestinal complaints"
+    ],
+    "urinary": [
+      "Urinary symptoms may occur with marked weakness"
+    ],
+    "respiratory": [
+      "Respiratory difficulty with anxiety and restlessness"
+    ],
+    "skin": [
+      "Burning and irritation",
+      "Skin complaints associated with restlessness"
+    ],
+    "extremitiesAndJoints": [
+      "Weakness of the extremities"
+    ]
+  },
+
+  "fever": {
+    "chill": [
+      "Chilliness",
+      "Sensitivity to cold"
+    ],
+    "heat": [
+      "Heat with restlessness"
+    ],
+    "sweat": [
+      "Sweating may occur with weakness"
+    ],
+    "associatedSymptoms": [
+      "Anxiety",
+      "Restlessness",
+      "Weakness"
+    ]
+  },
+
+  "discharges": {
+    "character": "Discharges may be irritating in traditional descriptions",
+    "modalities": [
+      "May be associated with burning sensations"
+    ]
+  },
+
+  "sensations": [
+    "Burning",
+    "Weakness",
+    "Restlessness",
+    "Anxiety"
+  ],
+
+  "locationAndDirection": {
+    "location": [
+      "Various systems depending on the symptom picture"
+    ]
+  },
+
+  "concomitants": [
+    "Anxiety with physical complaints",
+    "Restlessness with weakness",
+    "Burning with sensitivity"
+  ],
+
+  "pediatric": {
+    "general": [
+      "Restlessness",
+      "Weakness"
+    ],
+    "behaviour": [
+      "Anxious and restless behaviour"
+    ],
+    "digestive": [
+      "Digestive complaints with weakness"
+    ]
+  },
+
+  "constitutionAndLifeStage": {
+    "constitution": "Weak, sensitive and anxious constitution",
+    "age": "Applicable across age groups according to the traditional symptom picture",
+    "lifeStage": "General"
+  },
+
+  "relationships": {
+    "complementary": [],
+    "antidotes": [],
+    "inimical": [],
+    "followsWell": [],
+    "followedWellBy": [],
+    "relatedRemedies": []
+  },
+
+  "therapeuticApplications": {
+    "note": "The following are traditional homeopathic Materia Medica associations for educational study and are not evidence-based medical treatment recommendations.",
+    "applications": [
+      "Traditional association with anxiety and restlessness",
+      "Traditional association with digestive complaints",
+      "Traditional association with respiratory complaints",
+      "Traditional association with skin complaints"
+    ]
+  },
+
+  "quickRevision": {
+    "keyPoints": [
+      "Anxiety",
+      "Restlessness",
+      "Great weakness",
+      "Fastidiousness",
+      "Chilly tendency"
+    ],
+    "mind": [
+      "Anxiety",
+      "Restlessness",
+      "Fear of death"
+    ],
+    "physicalGenerals": [
+      "Weakness",
+      "Chilliness",
+      "Sensitivity"
+    ],
+    "modalities": [
+      "Aggravation after midnight",
+      "Amelioration by warmth"
+    ],
+    "foodAndThirst": [
+      "Frequent thirst for small quantities"
+    ],
+    "majorSystems": [
+      "Digestive",
+      "Respiratory",
+      "Skin",
+      "Nervous"
+    ],
+    "characteristicSymptoms": [
+      "Anxiety with restlessness",
+      "Great weakness"
+    ]
+  },
+
+  "examFocus": {
+    "importantConcepts": [
+      "Characteristic symptoms",
+      "Guiding symptoms",
+      "Mental symptoms",
+      "Physical generals",
+      "Modalities"
+    ],
+    "frequentlyAskedTopics": [
+      "Characteristic symptoms of Arsenicum Album"
+    ],
+    "shortNoteTopics": [
+      "Arsenicum Album"
+    ],
+    "characteristicSymptoms": [
+      "Anxiety with restlessness",
+      "Great weakness"
+    ],
+    "modalities": [
+      "After midnight",
+      "Warmth ameliorates"
+    ]
+  },
+
+  "traditionalNote": "This entry organizes traditional Homeopathic Materia Medica descriptions for educational and examination-reference purposes. It should not be interpreted as evidence-based medical treatment advice."
+}
