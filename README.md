@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🩺 Materia Medica
 
-## Getting Started
+<p align="center">
+  <strong>A modern educational Materia Medica reference platform for Homeopathy and BHMS students.</strong>
+</p>
 
-First, run the development server:
+<p align="center">
+  <a href="https://materia-medica-ten.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-15A6E1?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/SSAShawon/Materia-Medica">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository" />
+  </a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📖 About The Project
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Materia Medica** is a modern educational web platform designed to provide a structured and easy-to-navigate reference experience for **Homeopathy and BHMS students**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The project focuses on presenting Materia Medica information in a clean, organized, and student-friendly interface that can be useful for study, revision, and academic reference.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ✨ Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 📚 Structured Materia Medica reference content
+- 🔎 Easy-to-navigate medicine information
+- 🩺 Student-focused educational interface
+- 📱 Responsive design for different screen sizes
+- 🎨 Modern and clean user interface
+- ⚡ Fast navigation powered by Next.js
+- 🧩 Reusable React components
+- 📂 Organized medicine data structure
+- 🌐 Deployed and accessible online
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🛠️ Technologies Used
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Frontend
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" alt="Tech Stack" />
+</p>
+
+- **Next.js**
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
+
+### Development Tools
+
+- ESLint
+- PostCSS
+- npm
+- Vercel
+
+---
+
+## 🏗️ Project Structure
+
+```text
+Materia-Medica/
+│
+├── app/                  # Next.js App Router
+├── components/           # Reusable UI components
+├── data/
+│   └── medicines/        # Medicine-related data
+├── lib/                  # Utility functions
+├── public/               # Static assets
+├── types/                # TypeScript types
+│
+├── next.config.ts
+├── package.json
+├── tsconfig.json
+└── README.md
