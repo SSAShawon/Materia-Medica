@@ -1,0 +1,412 @@
+{
+  "id": "MED-007",
+  "slug": "corallinum",
+  "name": "Corallinum",
+  "commonName": "Red Coral",
+  "scientificName": "Corallium rubrum",
+  "abbreviation": "Cor-r.",
+  "synonyms": [
+    "Corallium rubrum",
+    "Red Coral",
+    "Coral"
+  ],
+
+  "source": "Animal (marine)",
+  "origin": "Calcareous skeleton of the red coral colony from the Mediterranean Sea and adjacent eastern Atlantic",
+  "naturalOrder": "Alcyonacea",
+  "family": "Coralliidae",
+  "kingdom": "Animalia",
+  "habitat": "Marine; rocky seabed of the Mediterranean and neighbouring Atlantic waters",
+  "partUsed": "Dried calcareous skeleton of the coral colony",
+  "preparation": "Trituration of the dried red coral skeleton, followed by attenuations",
+
+  "chemicalConstituents": [
+    "Calcium carbonate (principal constituent)",
+    "Magnesium carbonate (traces)",
+    "Iron oxide (responsible for the red colour)",
+    "Gelatinous organic matter"
+  ],
+  "generalAnalysis": "A marine animal remedy whose traditional picture is chiefly respiratory: profuse coryza, epistaxis and a dry, spasmodic, suffocative cough in very rapid paroxysms that almost run into one another. The face becomes purple during the cough, there is a sensation of smothering before the attack and great exhaustion afterwards, and the air passages feel intensely sensitive to cold air.",
+  "sphereOfAction": [
+    "Respiratory system",
+    "Nose and throat",
+    "Nervous system",
+    "Skin"
+  ],
+
+  "drugPicture": {
+    "generalPicture": "A picture of violent, rapid coughing. The attack is preceded by a sense of smothering, the paroxysms follow so closely that they almost merge, the face becomes purple, and the patient is exhausted afterwards. There is much coryza, post-nasal mucus and epistaxis, and inspired air feels icy cold.",
+    "generalCharacteristics": [
+      "Dry, spasmodic, suffocative cough in rapid paroxysms",
+      "Smothering sensation before the cough and exhaustion after it",
+      "Profuse coryza, post-nasal catarrh and epistaxis",
+      "Purple or cyanosed face during coughing",
+      "Extreme sensitivity of the air passages to cold air",
+      "Feels cold when uncovered and too hot when covered"
+    ],
+    "typicalConstitution": "Nervous temperament with marked sensitivity of the respiratory passages (traditional)",
+    "temperament": "Nervous and exhausted by the paroxysms",
+    "generalTendencies": [
+      "Spasmodic cough",
+      "Coryza with epistaxis",
+      "Cyanosis during paroxysms",
+      "Drowsiness"
+    ],
+    "characteristicFeatures": [
+      "Cough in minute-gun paroxysms",
+      "Inspired air feels icy cold",
+      "Profuse mucus dropping through the posterior nares",
+      "Coral-red spots on the skin",
+      "Symptoms worse in open air and on changing from a warm to a cold room"
+    ]
+  },
+
+  "keySymptoms": {
+    "keynotes": [
+      "Dry, spasmodic, suffocative cough in very rapid paroxysms",
+      "Attacks follow so closely as almost to run into each other",
+      "Sensation of smothering before the cough, exhaustion after it",
+      "Profuse coryza, post-nasal catarrh and epistaxis",
+      "Air passages feel cold on deep inspiration",
+      "Purple face during the paroxysm",
+      "Feels cold when uncovered and too hot when covered"
+    ],
+    "guidingSymptoms": [
+      "Short, barking, rapid cough recurring like minute-guns",
+      "Profuse secretion of mucus dropping through the posterior nares",
+      "Painful ulcer in the nostrils",
+      "Head feels very large, with pain as if the parietal bones were forced apart",
+      "Food tastes like sawdust and bread like straw",
+      "Craves salt"
+    ],
+    "characteristicSymptoms": [
+      "Whooping-cough picture with a purple face",
+      "Cough with expectoration of blood",
+      "Dry coryza with the nose stopped up and ulcerated",
+      "Coral-red spots becoming dark red and then copper-coloured",
+      "Relief from external heat"
+    ],
+    "indicatingSymptoms": [
+      "Rapid paroxysmal cough with smothering and exhaustion",
+      "Coryza with epistaxis and post-nasal discharge",
+      "Coldness when uncovered with heat when covered"
+    ]
+  },
+
+  "physicalGenerals": {
+    "constitution": "Nervous temperament with sensitive respiratory passages (traditional)",
+    "temperament": "Nervous and easily exhausted",
+    "thermalState": "Chilly when uncovered, yet too hot when covered; relieved by external heat",
+    "heatSensitivity": "Too hot when covered",
+    "coldSensitivity": "Feels cold when uncovered; inspired air feels cold",
+    "weakness": [
+      "Great exhaustion after coughing paroxysms"
+    ],
+    "sensitivity": [
+      "Air passages extremely sensitive to cold air",
+      "Throat very sensitive, especially to air"
+    ],
+    "generalTendencies": [
+      "Spasmodic cough",
+      "Coryza with epistaxis",
+      "Cyanosis during paroxysms",
+      "Drowsiness"
+    ]
+  },
+
+  "causation": [
+    "Change of air",
+    "Change from a warm to a cold room",
+    "Cold air"
+  ],
+
+  "modalities": {
+    "aggravation": [
+      "Open air",
+      "Change from a warm to a cold room",
+      "Uncovering (feels cold)",
+      "Deep inspiration of cold air"
+    ],
+    "amelioration": [
+      "External heat and artificial warmth",
+      "Covering (for the coldness)"
+    ]
+  },
+
+  "foodAndAppetite": {
+    "cravings": [
+      "Salt"
+    ],
+    "thirst": "Burning thirst during the chill"
+  },
+
+  "sleepAndDreams": {
+    "sleep": [
+      "Drowsiness; many symptoms appear during sleep"
+    ]
+  },
+
+  "particulars": {
+    "head": [
+      "Head feels very large",
+      "Violent pain as if the parietal bones were forced apart, worse stooping",
+      "Deep-seated frontal headache with pain behind the eyeballs"
+    ],
+    "eyes": [
+      "Eyes hot and painful",
+      "Pain aggravated by breathing cold air through the nose"
+    ],
+    "nose": [
+      "Profuse coryza and epistaxis",
+      "Painful ulcer in the nostrils",
+      "Post-nasal catarrh with profuse mucus dropping through the posterior nares",
+      "Dry coryza with the nose stopped up and ulcerated",
+      "Odours of smoke or onions perceived"
+    ],
+    "mouth": [
+      "Food tastes like sawdust; bread tastes like straw",
+      "Beer tastes sweet",
+      "Pain in the articulation of the left lower jaw"
+    ],
+    "throat": [
+      "Throat very sensitive, especially to air",
+      "Inspired air feels cold",
+      "Hawking of profuse mucus"
+    ],
+    "respiratory": [
+      "Dry, spasmodic, suffocative cough",
+      "Very rapid, short, barking cough in minute-gun paroxysms",
+      "Smothering sensation before the cough and exhaustion after",
+      "Cough with expectoration of blood",
+      "Whooping-cough picture with a purple face"
+    ],
+    "skin": [
+      "Coral-red spots, becoming dark red and then copper-coloured",
+      "Red, flat ulcers",
+      "Psoriasis of the palms and soles (traditional description)"
+    ],
+    "maleGenital": [
+      "Ulcers on the glans and inner prepuce with yellow ichor",
+      "Emissions and weakened sexual power"
+    ]
+  },
+
+  "fever": {
+    "chill": [
+      "Chill with the skin of ordinary temperature, headache and violent thirst",
+      "Febrile shivering with burning thirst"
+    ],
+    "heat": [
+      "Dry heat internally and externally with a full, hard pulse",
+      "Dry heat without thirst, not followed by perspiration"
+    ],
+    "sweat": [
+      "Profuse perspiration of the genitals"
+    ],
+    "associatedSymptoms": [
+      "Headache",
+      "Thirst",
+      "Cough"
+    ],
+    "modalities": [
+      "Relieved by external heat"
+    ]
+  },
+
+  "haemorrhage": {
+    "characterOfBlood": "Epistaxis and expectoration of blood within the respiratory picture",
+    "associatedSymptoms": [
+      "Coryza",
+      "Cough with smothering",
+      "Exhaustion"
+    ]
+  },
+
+  "discharges": {
+    "color": "Yellow ichor from ulcers",
+    "consistency": "Profuse mucus",
+    "character": "Profuse post-nasal mucus and coryza"
+  },
+
+  "sensations": [
+    "Smothering before the cough",
+    "Air feels cold on inspiration",
+    "Head feels very large",
+    "Coldness when uncovered"
+  ],
+
+  "locationAndDirection": {
+    "location": [
+      "Nose and posterior nares",
+      "Throat and air passages",
+      "Chest",
+      "Head"
+    ]
+  },
+
+  "concomitants": [
+    "Purple face with cough",
+    "Exhaustion after the paroxysm",
+    "Epistaxis with coryza"
+  ],
+
+  "pediatric": {
+    "general": [
+      "Spasmodic cough in infants and children"
+    ],
+    "behaviour": [
+      "Drowsiness with respiratory complaints"
+    ],
+    "fever": [
+      "Dry heat with coldness on uncovering"
+    ],
+    "characteristicSymptoms": [
+      "Whooping-cough picture with a purple face and exhaustion",
+      "Laryngismus stridulus during sleep (traditional description)"
+    ]
+  },
+
+  "constitutionAndLifeStage": {
+    "constitution": "Nervous temperament with marked respiratory sensitivity",
+    "age": "Any age; the cough picture is seen particularly in children",
+    "lifeStage": "Childhood respiratory illnesses and adulthood catarrhal states",
+    "typicalPatientPicture": "A nervous patient with a rapid, suffocative cough, profuse nasal discharge, a purple face during paroxysms and great sensitivity to cold air."
+  },
+
+  "compareWith": [
+    {
+      "medicine": "Drosera rotundifolia",
+      "similarities": [
+        "Spasmodic cough",
+        "Whooping-cough picture",
+        "Exhaustion after paroxysms"
+      ],
+      "differences": [
+        "Drosera cough is described as moist; Corallinum cough is dry",
+        "Drosera is typically worse after midnight and when lying down",
+        "Corallinum has profuse post-nasal mucus and epistaxis"
+      ]
+    },
+    {
+      "medicine": "Belladonna",
+      "similarities": [
+        "Spasmodic cough",
+        "Congestion of the face"
+      ],
+      "differences": [
+        "Belladonna has a hot, red face; Corallinum becomes purple or cyanosed",
+        "Belladonna is worse from light, noise and jarring",
+        "Corallinum is marked by air passages sensitive to cold and profuse nasal discharge"
+      ]
+    },
+    {
+      "medicine": "Causticum",
+      "similarities": [
+        "Air feels cold on inspiration",
+        "Sensitivity of the air passages"
+      ],
+      "differences": [
+        "Causticum has rawness and hoarseness with loss of voice",
+        "Corallinum has profuse coryza, post-nasal mucus and epistaxis",
+        "Corallinum cough is rapid and barking rather than raw and burning"
+      ]
+    }
+  ],
+
+  "relationships": {
+    "complementary": [
+      "Sulphur"
+    ],
+    "antidotes": [
+      "Mercurius solubilis"
+    ],
+    "relatedRemedies": [
+      "Belladonna",
+      "Drosera rotundifolia",
+      "Mephitis putorius",
+      "Causticum"
+    ]
+  },
+
+  "therapeuticApplications": {
+    "note": "The following are traditional homeopathic Materia Medica associations for educational study only. They are not evidence-based medical treatment recommendations. Persistent cough, whooping cough and haemoptysis require medical assessment.",
+    "applications": [
+      "Traditional association with spasmodic and whooping cough",
+      "Coryza, post-nasal catarrh and epistaxis",
+      "Ulceration within the nostrils",
+      "Respiratory sensitivity to cold air",
+      "Coral-red skin eruptions"
+    ]
+  },
+
+  "quickRevision": {
+    "keyPoints": [
+      "Rapid minute-gun cough",
+      "Smothering before and exhaustion after",
+      "Profuse coryza and epistaxis",
+      "Air feels cold",
+      "Purple face during cough"
+    ],
+    "physicalGenerals": [
+      "Cold when uncovered",
+      "Too hot when covered",
+      "Better from external heat"
+    ],
+    "modalities": [
+      "Aggravation in open air and from cold air",
+      "Amelioration from external heat"
+    ],
+    "foodAndThirst": [
+      "Craves salt",
+      "Food tastes like sawdust"
+    ],
+    "majorSystems": [
+      "Respiratory",
+      "Nose and throat",
+      "Skin"
+    ],
+    "characteristicSymptoms": [
+      "Cough paroxysms almost running together",
+      "Profuse post-nasal mucus",
+      "Inspired air feels icy cold"
+    ]
+  },
+
+  "examFocus": {
+    "importantConcepts": [
+      "Spasmodic cough",
+      "Rapid paroxysms",
+      "Post-nasal catarrh",
+      "Cold air sensitivity",
+      "Coral-red eruptions"
+    ],
+    "frequentlyAskedTopics": [
+      "Corallinum in whooping cough",
+      "Corallinum in post-nasal catarrh",
+      "Corallinum versus Drosera in spasmodic cough"
+    ],
+    "shortNoteTopics": [
+      "Corallinum"
+    ],
+    "compareQuestions": [
+      "Corallinum versus Drosera rotundifolia",
+      "Corallinum versus Belladonna in spasmodic cough",
+      "Corallinum versus Causticum in cold-air sensitivity"
+    ],
+    "coughTopics": [
+      "Minute-gun paroxysms",
+      "Smothering before and exhaustion after the cough"
+    ],
+    "characteristicSymptoms": [
+      "Rapid, short, barking cough",
+      "Profuse post-nasal mucus",
+      "Air feels cold on inspiration"
+    ],
+    "modalities": [
+      "Aggravation in open air and cold",
+      "Amelioration from external heat"
+    ]
+  },
+
+  "traditionalNote": "This entry organizes traditional Homeopathic Materia Medica descriptions for educational and examination-reference purposes. The classical mental picture of Corallinum is not well developed in the standard sources, so the mind section is omitted rather than filled with unsupported content."
+}

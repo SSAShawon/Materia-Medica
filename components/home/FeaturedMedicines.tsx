@@ -1,8 +1,9 @@
 import Link from "next/link";
+
 import { getAllMedicines } from "@/lib/medicines";
 
-export default function FeaturedMedicines() {
-  const medicines = getAllMedicines();
+export default async function FeaturedMedicines() {
+  const medicines = await getAllMedicines();
 
   return (
     <section className="bg-ivory-50 px-6 py-24">
@@ -108,7 +109,9 @@ export default function FeaturedMedicines() {
                   </p>
 
                   <p className="mt-2 text-sm text-text-secondary">
-                    remedy currently available
+                    {medicines.length === 1
+                      ? "remedy currently available"
+                      : "remedies currently available"}
                   </p>
                 </div>
 

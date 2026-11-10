@@ -1,0 +1,455 @@
+{
+  "id": "MED-005",
+  "slug": "chamomilla",
+  "name": "Chamomilla",
+  "commonName": "German Chamomile",
+  "scientificName": "Matricaria chamomilla (synonym: Matricaria recutita)",
+  "abbreviation": "Cham.",
+  "synonyms": [
+    "Matricaria chamomilla",
+    "Matricaria recutita",
+    "German Chamomile",
+    "Wild Chamomile"
+  ],
+
+  "source": "Plant",
+  "origin": "Europe and western Asia; naturalised and cultivated widely",
+  "naturalOrder": "Asterales",
+  "family": "Asteraceae (Compositae; daisy family)",
+  "kingdom": "Plantae",
+  "habitat": "Cultivated fields, roadsides and waste ground in temperate regions",
+  "partUsed": "Whole fresh plant in flower (flower heads)",
+  "preparation": "Mother tincture and attenuations prepared from the fresh flowering plant according to traditional homeopathic pharmacopoeial methods",
+
+  "chemicalConstituents": [
+    "Volatile oil containing chamazulene and alpha-bisabolol",
+    "Flavonoids including apigenin",
+    "Coumarins",
+    "Mucilage",
+    "Bitter principles"
+  ],
+  "generalAnalysis": "A plant remedy whose guiding symptoms belong chiefly to the mind and emotions. It is used traditionally for states of extreme oversensitiveness, especially in children, where pain feels unbearable and provokes irritability, anger and inconsolable crying. The classical picture includes one cheek red and hot while the other is pale and cold, a child quiet only while being carried, and a dry cough at night during sleep.",
+  "sphereOfAction": [
+    "Nervous system",
+    "Mind",
+    "Gastrointestinal system",
+    "Female genital system",
+    "Teeth and gums"
+  ],
+
+  "drugPicture": {
+    "generalPicture": "A picture of intolerance of pain. The patient, often a teething child, is peevish, impatient and angry; the pain seems unendurable and is accompanied by numbness. The child cries until carried, asks for things and then refuses them, and may have one cheek red and hot while the other is pale and cold.",
+    "generalCharacteristics": [
+      "Extreme oversensitiveness to pain",
+      "Irritability and anger, especially from pain",
+      "Child quiet only when carried",
+      "One cheek red and hot, the other pale and cold",
+      "Pains accompanied by numbness",
+      "Hot sweat on the head"
+    ],
+    "typicalConstitution": "Especially suited to children, nervous and hysterical women, and persons of light brown hair (traditional description)",
+    "temperament": "Irritable, impatient and quarrelsome",
+    "generalTendencies": [
+      "Oversensitivity to pain, touch and noise",
+      "Anger and tantrums",
+      "Spasms and colic",
+      "Sweating on the head"
+    ],
+    "characteristicFeatures": [
+      "Child is quiet only while being carried",
+      "Asks for something and refuses it when offered",
+      "One cheek red and hot, the other pale and cold",
+      "Dry cough at night while asleep",
+      "Oversensitiveness after coffee or narcotics"
+    ]
+  },
+
+  "keySymptoms": {
+    "keynotes": [
+      "Extreme oversensitiveness to pain, with irritability and anger",
+      "Child cries and is quiet only when carried",
+      "One cheek red and hot, the other pale and cold",
+      "Wants this and that, which is refused when offered",
+      "Pains accompanied by numbness",
+      "Hot sweat on the head",
+      "Dry cough at night, during sleep"
+    ],
+    "guidingSymptoms": [
+      "Peevish, snappish and uncivil",
+      "Cannot bear to be spoken to or looked at",
+      "Teething with diarrhoea, fever or earache",
+      "Colic with drawing up of the legs and greenish stools",
+      "Oversensitiveness from abuse of coffee or narcotics"
+    ],
+    "characteristicSymptoms": [
+      "One cheek red and hot while the other is pale and cold",
+      "Child can only be quieted by carrying it on the arms",
+      "Greenish stools with a foul odour during dentition",
+      "Earache in spells, with crying and tearing pain",
+      "Sweat on the head wetting the hair"
+    ],
+    "indicatingSymptoms": [
+      "Pain out of proportion to the apparent cause",
+      "Irritability that is worse from pain and at night",
+      "Child who clings and protests when put down"
+    ]
+  },
+
+  "mind": {
+    "general": [
+      "Oversensitive, irritable and peevish",
+      "Impatient and quarrelsome",
+      "Contradictory: asks for something and refuses it when given",
+      "Child cries and is quiet only when carried"
+    ],
+    "anxiety": [
+      "Anxious and uneasy with pain"
+    ],
+    "irritability": [
+      "Extremely irritable; cannot bear to be spoken to",
+      "Snappish and uncivil"
+    ],
+    "anger": [
+      "Anger with violence, often provoked by pain",
+      "Tantrums and screaming in children"
+    ],
+    "sadness": [
+      "Weeping with pain"
+    ],
+    "restlessness": [
+      "Restless and tossing with pain"
+    ],
+    "desires": [
+      "Desire to be carried",
+      "Desire for things that are then refused when offered"
+    ],
+    "aversions": [
+      "Aversion to being touched, looked at or spoken to",
+      "Aversion to music and noise"
+    ]
+  },
+
+  "physicalGenerals": {
+    "constitution": "Especially suited to children, nervous and hysterical women, and persons of light brown hair (traditional)",
+    "temperament": "Irritable and oversensitive",
+    "thermalState": "Hot and thirsty; heat aggravates",
+    "heatSensitivity": "Intolerance of heat; one cheek hot and red",
+    "coldSensitivity": "Sensitive to cold wind on the face and ears",
+    "sensitivity": [
+      "Oversensitive to pain, touch and noise",
+      "Pains may be accompanied by numbness"
+    ],
+    "sidePreference": "Pains are often semi-lateral; one cheek red and hot, the other pale and cold",
+    "generalTendencies": [
+      "Oversensitivity",
+      "Irritability",
+      "Spasms and colic",
+      "Sweating on the head"
+    ]
+  },
+
+  "causation": [
+    "Teething",
+    "Anger",
+    "Coffee",
+    "Narcotics (oversensitiveness)",
+    "Cold wind",
+    "Suppressed sweat"
+  ],
+
+  "modalities": {
+    "aggravation": [
+      "At night, especially around 9 p.m. to midnight",
+      "Heat",
+      "Anger",
+      "Being touched, looked at or spoken to",
+      "Coffee",
+      "Teething",
+      "Cold wind"
+    ],
+    "amelioration": [
+      "Being carried",
+      "Warm wet weather",
+      "Sweating",
+      "Warm applications (except for toothache)"
+    ]
+  },
+
+  "foodAndAppetite": {
+    "thirst": "Thirsty, especially during fever and pain",
+    "aggravations": [
+      "Coffee"
+    ]
+  },
+
+  "sleepAndDreams": {
+    "sleep": [
+      "Sleepless from pain and oversensitivity",
+      "The child sleeps only while being carried"
+    ],
+    "insomnia": [
+      "Sleeplessness with pain, restlessness and sweating on the head"
+    ]
+  },
+
+  "particulars": {
+    "head": [
+      "Hot sweat on the head, wetting the hair",
+      "Pulsating one-sided headache with redness and heat of one cheek"
+    ],
+    "ears": [
+      "Pressing or tearing earache in spells, with crying",
+      "Ears sensitive to cold air"
+    ],
+    "face": [
+      "One cheek red and hot, the other pale and cold"
+    ],
+    "mouth": [
+      "Bitter taste",
+      "Yellow tongue"
+    ],
+    "teethAndGums": [
+      "Teething pain with intense irritability",
+      "Toothache worse from warm drinks and at night"
+    ],
+    "git": [
+      "Colic with distension and drawing up of the legs",
+      "Greenish stools with a foul odour",
+      "Diarrhoea during dentition",
+      "Hot, green, slimy stools likened to chopped spinach"
+    ],
+    "femaleGenital": [
+      "Painful menstruation with extreme irritability"
+    ],
+    "respiratory": [
+      "Dry cough at night and during sleep",
+      "Cough from tickling in the throat-pit"
+    ]
+  },
+
+  "fever": {
+    "chill": [
+      "Chilliness with heat of the head"
+    ],
+    "heat": [
+      "Heat with one cheek red and hot, the other pale and cold",
+      "Hot sweat on the head"
+    ],
+    "sweat": [
+      "Profuse sweat on the scalp and covered parts"
+    ],
+    "associatedSymptoms": [
+      "Thirst",
+      "Restlessness",
+      "Irritability"
+    ]
+  },
+
+  "sensations": [
+    "Pain out of proportion to its cause",
+    "Numbness with pain",
+    "Drawing and tearing pains"
+  ],
+
+  "locationAndDirection": {
+    "location": [
+      "Head",
+      "Face and teeth",
+      "Ears",
+      "Abdomen"
+    ]
+  },
+
+  "concomitants": [
+    "Anger with pain",
+    "Sweat on the head with pain",
+    "Restlessness with colic"
+  ],
+
+  "pediatric": {
+    "general": [
+      "A leading traditional remedy for teething infants"
+    ],
+    "behaviour": [
+      "Screams, kicks and arches the back",
+      "Quiet only while carried",
+      "Wants this and that, refuses when offered"
+    ],
+    "feeding": [
+      "Colic after feeding",
+      "Greenish diarrhoea during dentition"
+    ],
+    "teething": [
+      "Teething with fever, diarrhoea or earache"
+    ],
+    "fever": [
+      "One cheek red and hot, the other pale and cold"
+    ],
+    "digestive": [
+      "Colicky pain with distension"
+    ],
+    "characteristicSymptoms": [
+      "Child is quiet only when carried",
+      "One cheek red and hot, the other pale and cold"
+    ]
+  },
+
+  "constitutionAndLifeStage": {
+    "constitution": "Nervous, oversensitive and irritable",
+    "age": "Especially infancy and childhood",
+    "sex": "Also suits nervous and hysterical women",
+    "lifeStage": "Teething, dentition and early childhood",
+    "typicalPatientPicture": "An inconsolable, angry child who is quiet only while being carried, or an adult who cannot bear pain and becomes irritable and rude with it."
+  },
+
+  "compareWith": [
+    {
+      "medicine": "Pulsatilla pratensis",
+      "similarities": [
+        "Tearful child",
+        "Desire for company and consolation"
+      ],
+      "differences": [
+        "Pulsatilla is mild, weepy and clingy; Chamomilla is angry, snappish and uncivil",
+        "Pulsatilla is thirstless and better in open air; Chamomilla is thirsty and worse from heat",
+        "Pulsatilla wants to be hugged; the Chamomilla child may push comfort away"
+      ]
+    },
+    {
+      "medicine": "Belladonna",
+      "similarities": [
+        "Fever",
+        "Redness of the face",
+        "Irritability in children"
+      ],
+      "differences": [
+        "Belladonna has a hot, uniformly red face and dilated pupils",
+        "Chamomilla has one cheek red and hot and the other pale and cold",
+        "Chamomilla is dominated by oversensitivity to pain rather than throbbing congestion"
+      ]
+    },
+    {
+      "medicine": "Coffea cruda",
+      "similarities": [
+        "Oversensitiveness",
+        "Sleeplessness",
+        "Intolerance of pain"
+      ],
+      "differences": [
+        "Coffea is excitable and sleepless from joy or pleasurable excitement",
+        "Chamomilla is irritable and angry, with pain as the leading feature",
+        "Chamomilla has the characteristic one-red-cheek picture"
+      ]
+    }
+  ],
+
+  "relationships": {
+    "complementary": [
+      "Belladonna",
+      "Magnesia carbonica"
+    ],
+    "antidotes": [
+      "Camphora",
+      "Nux vomica",
+      "Pulsatilla pratensis"
+    ],
+    "followsWell": [
+      "Belladonna (in children's diseases and after opium)"
+    ],
+    "relatedRemedies": [
+      "Coffea cruda",
+      "Anthemis nobilis",
+      "Cypripedium pubescens"
+    ]
+  },
+
+  "therapeuticApplications": {
+    "note": "The following are traditional homeopathic Materia Medica associations for educational study only. They are not evidence-based medical treatment recommendations.",
+    "applications": [
+      "Traditional association with teething pain and irritability",
+      "Colic and diarrhoea in infants",
+      "Earache in children",
+      "Painful menstruation with irritability",
+      "Sleeplessness from pain and oversensitivity"
+    ]
+  },
+
+  "quickRevision": {
+    "keyPoints": [
+      "Oversensitive to pain",
+      "Irritable and angry",
+      "Quiet only when carried",
+      "One cheek red, one pale",
+      "Hot sweat on the head"
+    ],
+    "mind": [
+      "Irritable",
+      "Impatient",
+      "Contradictory",
+      "Angry with pain"
+    ],
+    "physicalGenerals": [
+      "Hot and thirsty",
+      "Numbness with pain",
+      "Oversensitive to touch and noise"
+    ],
+    "modalities": [
+      "Aggravation at night, from heat, anger and coffee",
+      "Amelioration from being carried and warm wet weather"
+    ],
+    "foodAndThirst": [
+      "Thirsty",
+      "Coffee aggravates"
+    ],
+    "majorSystems": [
+      "Nervous",
+      "Digestive",
+      "Teeth and gums",
+      "Female genital"
+    ],
+    "characteristicSymptoms": [
+      "Child quiet only when carried",
+      "One cheek red and hot, the other pale and cold",
+      "Pain with numbness"
+    ]
+  },
+
+  "examFocus": {
+    "importantConcepts": [
+      "Oversensitivity to pain",
+      "Irritability and anger",
+      "One-red-cheek picture",
+      "Carried child",
+      "Teething remedy"
+    ],
+    "frequentlyAskedTopics": [
+      "Characteristic symptoms of Chamomilla",
+      "Chamomilla in dentition",
+      "Chamomilla versus Pulsatilla in children"
+    ],
+    "shortNoteTopics": [
+      "Chamomilla",
+      "Chamomilla in teething diarrhoea"
+    ],
+    "compareQuestions": [
+      "Chamomilla versus Pulsatilla pratensis",
+      "Chamomilla versus Belladonna in fever",
+      "Chamomilla versus Coffea cruda in oversensitiveness"
+    ],
+    "pediatricTopics": [
+      "Teething with irritability and diarrhoea",
+      "Chamomilla child behaviour"
+    ],
+    "characteristicSymptoms": [
+      "One cheek red and hot, the other pale and cold",
+      "Quiet only when carried",
+      "Pains with numbness"
+    ],
+    "modalities": [
+      "Aggravation at night, from heat and anger",
+      "Amelioration from being carried"
+    ]
+  },
+
+  "traditionalNote": "This entry organizes traditional Homeopathic Materia Medica descriptions for educational and examination-reference purposes. Chamomile tea is a traditional household beverage, but homeopathic Chamomilla is not an evidence-based treatment for teething, colic or any other condition."
+}

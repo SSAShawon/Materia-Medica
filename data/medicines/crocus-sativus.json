@@ -1,0 +1,452 @@
+{
+  "id": "MED-006",
+  "slug": "crocus-sativus",
+  "name": "Crocus Sativus",
+  "commonName": "Saffron",
+  "scientificName": "Crocus sativus",
+  "abbreviation": "Croc.",
+  "synonyms": [
+    "Saffron",
+    "Crocus sativa",
+    "Crocus officinalis",
+    "Saffron Crocus"
+  ],
+
+  "source": "Plant",
+  "origin": "Probably native to Greece and western Asia; long cultivated in Spain, Iran, India (Kashmir) and the Mediterranean region",
+  "naturalOrder": "Asparagales",
+  "family": "Iridaceae (iris family)",
+  "kingdom": "Plantae",
+  "habitat": "Cultivated in temperate climates; the dried stigmas are the commercially used part",
+  "partUsed": "Dried stigmas and styles of the flower",
+  "preparation": "Mother tincture prepared from the dried stigmas, followed by attenuations",
+
+  "chemicalConstituents": [
+    "Crocin (carotenoid colouring principle)",
+    "Crocetin",
+    "Picrocrocin (bitter principle)",
+    "Safranal (volatile principle)",
+    "Volatile oil"
+  ],
+  "generalAnalysis": "A plant remedy with two strong traditional themes: haemorrhages in which the blood is black, viscid and clotted into long strings, and a sensation as if something alive were moving or jumping in the abdomen or chest. The mental state is strikingly changeable, with laughter, affection and singing alternating rapidly with tears, anger and abuse.",
+  "sphereOfAction": [
+    "Mind and nerves",
+    "Female genital system",
+    "Blood and haemorrhages",
+    "Eyes",
+    "Chest"
+  ],
+
+  "drugPicture": {
+    "generalPicture": "A picture of rapid alternation and abnormal movement. The patient laughs, sings and embraces everyone, then suddenly weeps or becomes abusive, and may repent immediately afterwards. Bleeding is dark, viscid and stringy, and there is a peculiar sensation of something living hopping about in the abdomen or chest.",
+    "generalCharacteristics": [
+      "Rapid alternation of mental states",
+      "Haemorrhage with black, viscid, stringy clots",
+      "Sensation of something alive moving in the abdomen or chest",
+      "Spasmodic twitching of single groups of muscles",
+      "Symptoms may change sides rapidly",
+      "Epistaxis at puberty and menstrual bleeding with dark clots"
+    ],
+    "typicalConstitution": "Nervous and hysterical constitution",
+    "temperament": "Extremely changeable and excitable",
+    "generalTendencies": [
+      "Haemorrhage with dark stringy clots",
+      "Spasms and twitching",
+      "Rapid alternation of opposite states",
+      "Nervous excitement"
+    ],
+    "characteristicFeatures": [
+      "Anger with violence followed by repentance",
+      "Laughing or singing alternating with weeping",
+      "Blood hangs in long black strings from the bleeding orifice",
+      "Sensation of a living thing jumping in the abdomen",
+      "Ailments at puberty, during pregnancy and at the climacteric"
+    ]
+  },
+
+  "keySymptoms": {
+    "keynotes": [
+      "Haemorrhages with black, viscid, clotted blood forming long strings",
+      "Sensation as if something alive were hopping or jumping in the abdomen, chest or uterus",
+      "Frequent and extreme changes of mood, from hilarity to despondency and rage",
+      "Anger with violence followed by repentance",
+      "Spasmodic twitching of single sets of muscles",
+      "Epistaxis at puberty, especially in young girls",
+      "Menstrual blood dark, clotted and stringy"
+    ],
+    "guidingSymptoms": [
+      "Laughing, singing and wanting to kiss everybody, then crying and abusing everyone",
+      "Bleeding worse from the least movement",
+      "Bleeding worse at the new or full moon",
+      "False sensation of pregnancy with movements in the abdomen",
+      "Throbbing headache during menses or at the climacteric",
+      "Drowsiness and lassitude better from literary occupation"
+    ],
+    "characteristicSymptoms": [
+      "Long black strings of blood hanging from the nose",
+      "Sensation of something rolling or tumbling in the abdomen",
+      "Chorea with hilarity, singing and dancing",
+      "Tingling and crawling sensations in various parts",
+      "Symptoms changing sides rapidly"
+    ],
+    "indicatingSymptoms": [
+      "Dark stringy bleeding with faintness",
+      "Sudden mood changes accompanying the physical complaint",
+      "Sensation of internal movement in a non-pregnant patient"
+    ]
+  },
+
+  "mind": {
+    "general": [
+      "Extremely changeable: laughter, singing and affection alternating with tears, anger and abuse",
+      "Anger with violence followed by repentance",
+      "Nervous excitement with hysteria"
+    ],
+    "fear": [
+      "Fearfulness with nervous excitement"
+    ],
+    "anxiety": [
+      "Anxious and restless with palpitation"
+    ],
+    "irritability": [
+      "Irritable and abusive during the excited phase"
+    ],
+    "anger": [
+      "Violent anger, quickly followed by repentance"
+    ],
+    "sadness": [
+      "Deep despondency following hilarity"
+    ],
+    "restlessness": [
+      "Nervous restlessness and jerking"
+    ],
+    "desires": [
+      "Desire to kiss and embrace everyone during the excited phase"
+    ]
+  },
+
+  "physicalGenerals": {
+    "constitution": "Nervous and hysterical constitution",
+    "temperament": "Changeable and excitable",
+    "thermalState": "Warm room aggravates; open air ameliorates",
+    "heatSensitivity": "Warm room and warmth aggravate",
+    "weakness": [
+      "Prostration and faintness with haemorrhage"
+    ],
+    "sensitivity": [
+      "Tingling and crawling sensations",
+      "Nervous oversensitivity"
+    ],
+    "sidePreference": "Symptoms may change sides rapidly",
+    "generalTendencies": [
+      "Haemorrhage with dark stringy clots",
+      "Spasms and twitching",
+      "Rapid alternation of states"
+    ]
+  },
+
+  "causation": [
+    "Puberty",
+    "Pregnancy",
+    "Fasting",
+    "Nervous excitement"
+  ],
+
+  "modalities": {
+    "aggravation": [
+      "Movement",
+      "Warm room",
+      "During pregnancy",
+      "Puberty",
+      "Changes of the moon",
+      "Fasting"
+    ],
+    "amelioration": [
+      "Open air",
+      "Yawning",
+      "After breakfast",
+      "Literary occupation (for drowsiness)"
+    ]
+  },
+
+  "foodAndAppetite": {
+    "cravings": [
+      "Cold drinks"
+    ],
+    "thirst": "Excessive thirst for cold drinks"
+  },
+
+  "sleepAndDreams": {
+    "sleep": [
+      "Drowsiness and lassitude, better from literary occupation"
+    ]
+  },
+
+  "particulars": {
+    "head": [
+      "Throbbing, pulsating headache during menses or at the climacteric",
+      "Headache better from pressure"
+    ],
+    "eyes": [
+      "Sensation as if smoke were in the eyes",
+      "Must wink and wipe the eyes frequently",
+      "Electric sparks or jumping spots before the eyes"
+    ],
+    "nose": [
+      "Epistaxis with long strings of dark blood hanging from the nose",
+      "Nosebleed at puberty, especially in young girls"
+    ],
+    "face": [
+      "Hot, red face alternating with pallor"
+    ],
+    "mouth": [
+      "Unusual warmth in the mouth",
+      "Sour taste",
+      "Foul odour"
+    ],
+    "throat": [
+      "Sensation as if the uvula were elongated, especially in hysterical states"
+    ],
+    "git": [
+      "Bloated abdomen",
+      "Sensation as if something living were jumping in the stomach or abdomen",
+      "Obstinate constipation in infants (traditional description)"
+    ],
+    "femaleGenital": [
+      "Menses too early and too profuse",
+      "Dark, clotted, stringy menstrual blood",
+      "Metrorrhagia worse from the least movement",
+      "Bleeding worse at the new or full moon",
+      "Threatened abortion (traditional description)"
+    ],
+    "respiratory": [
+      "Dry cough relieved by laying the hand on the pit of the stomach",
+      "Stringy expectoration"
+    ],
+    "heartAndCirculation": [
+      "Palpitation with anxiety, worse ascending stairs",
+      "Sensation of heat ascending to the heart"
+    ],
+    "nerves": [
+      "Tingling, crawling and prickling in the limbs",
+      "Jerking or spasmodic contraction of single sets of muscles",
+      "Chorea and hysterical affections"
+    ]
+  },
+
+  "haemorrhage": {
+    "characterOfBlood": "Black, viscid and clotted, forming long strings that hang from the bleeding orifice",
+    "color": "Black",
+    "consistency": "Viscid, clotted and stringy",
+    "flow": "Hangs in long strings from the nose, uterus or other orifice",
+    "causes": [
+      "Puberty",
+      "Pregnancy",
+      "New or full moon",
+      "Least movement"
+    ],
+    "modalities": [
+      "Worse from movement",
+      "Worse at the new or full moon"
+    ],
+    "associatedSymptoms": [
+      "Faintness",
+      "Cold sweat on the forehead",
+      "Prostration"
+    ]
+  },
+
+  "sensations": [
+    "Something alive hopping or jumping in the abdomen, chest or uterus",
+    "Tingling and crawling",
+    "Smoke in the eyes",
+    "Pulsating headache",
+    "Sensation of heat ascending to the heart"
+  ],
+
+  "locationAndDirection": {
+    "location": [
+      "Uterus",
+      "Nose",
+      "Chest",
+      "Eyes",
+      "Head"
+    ],
+    "side": "Symptoms may change sides rapidly",
+    "direction": [
+      "Sensation of heat ascending to the heart"
+    ]
+  },
+
+  "concomitants": [
+    "Faintness with epistaxis",
+    "Nausea and shivering with the sensation of movement",
+    "Palpitation with anxiety"
+  ],
+
+  "constitutionAndLifeStage": {
+    "constitution": "Nervous and hysterical",
+    "age": "Young girls at puberty; women during reproductive life",
+    "sex": "Especially women and young girls",
+    "lifeStage": "Puberty, menstruation, pregnancy and the climacteric",
+    "typicalPatientPicture": "A nervous, excitable woman or girl with rapidly changing moods, dark stringy bleeding, and a sensation of something moving in the abdomen."
+  },
+
+  "compareWith": [
+    {
+      "medicine": "Ignatia amara",
+      "similarities": [
+        "Rapid alternation of moods",
+        "Hysterical disposition"
+      ],
+      "differences": [
+        "Ignatia is associated with grief, sighing and contradiction; Crocus with bleeding and internal movement",
+        "Ignatia has a lump sensation in the throat; Crocus has a sensation of something alive in the abdomen",
+        "Crocus has marked dark, stringy haemorrhages"
+      ]
+    },
+    {
+      "medicine": "Nux moschata",
+      "similarities": [
+        "Changeable mental state",
+        "Drowsiness"
+      ],
+      "differences": [
+        "Nux moschata has marked dryness and a tendency to faint",
+        "Crocus has the characteristic haemorrhages and sensation of movement",
+        "Crocus is more hysterical and excited"
+      ]
+    },
+    {
+      "medicine": "Sabina",
+      "similarities": [
+        "Uterine haemorrhage with clots",
+        "Menstrual disorders"
+      ],
+      "differences": [
+        "Sabina bleeding is usually bright red and worse from the least motion",
+        "Crocus bleeding is dark, viscid and stringy",
+        "Crocus has the sensation of something alive moving in the abdomen"
+      ]
+    },
+    {
+      "medicine": "Platinum metallicum",
+      "similarities": [
+        "Hysterical states",
+        "Changeable moods"
+      ],
+      "differences": [
+        "Platinum is haughty and contemptuous with numb sensations",
+        "Crocus alternates affection and rage, with repentance",
+        "Crocus is a leading remedy for dark stringy haemorrhage"
+      ]
+    }
+  ],
+
+  "relationships": {
+    "antidotes": [
+      "Opium",
+      "Belladonna"
+    ],
+    "relatedRemedies": [
+      "Ipecacuanha",
+      "Trillium pendulum",
+      "Platinum metallicum",
+      "Cinchona officinalis",
+      "Sabina"
+    ]
+  },
+
+  "therapeuticApplications": {
+    "note": "The following are traditional homeopathic Materia Medica associations for educational study only. They are not evidence-based medical treatment recommendations. Any significant or unexplained bleeding requires urgent medical assessment.",
+    "applications": [
+      "Traditional association with dark, clotted, stringy haemorrhages",
+      "Epistaxis at puberty",
+      "Menstrual disorders with dark clots and mood changes",
+      "Chorea and hysterical affections",
+      "Sensation of internal movement with false pregnancy"
+    ]
+  },
+
+  "quickRevision": {
+    "keyPoints": [
+      "Black, viscid, stringy clots",
+      "Sensation of something alive moving",
+      "Extreme mood changes",
+      "Anger followed by repentance",
+      "Bleeding at puberty and at the moon phases"
+    ],
+    "mind": [
+      "Laughing and singing",
+      "Then weeping and abusive",
+      "Repentance after anger"
+    ],
+    "physicalGenerals": [
+      "Nervous and hysterical",
+      "Warm room aggravates",
+      "Prostration with bleeding"
+    ],
+    "modalities": [
+      "Aggravation from movement, warm room, fasting and moon changes",
+      "Amelioration in open air and after breakfast"
+    ],
+    "foodAndThirst": [
+      "Thirst for cold drinks"
+    ],
+    "majorSystems": [
+      "Female genital",
+      "Blood",
+      "Nerves",
+      "Eyes"
+    ],
+    "characteristicSymptoms": [
+      "Long black strings of blood",
+      "Something alive jumping in the abdomen",
+      "Rapid alternation of mood"
+    ]
+  },
+
+  "examFocus": {
+    "importantConcepts": [
+      "Dark stringy haemorrhage",
+      "Sensation of something alive",
+      "Changeable mood",
+      "Chorea",
+      "Puberty and menstrual bleeding"
+    ],
+    "frequentlyAskedTopics": [
+      "Characteristic symptoms of Crocus sativus",
+      "Crocus in epistaxis and menorrhagia",
+      "Crocus versus Sabina in uterine haemorrhage"
+    ],
+    "shortNoteTopics": [
+      "Crocus sativus",
+      "Crocus in dark stringy haemorrhages"
+    ],
+    "compareQuestions": [
+      "Crocus versus Sabina in uterine bleeding",
+      "Crocus versus Ignatia amara in mood changes",
+      "Crocus versus Platinum metallicum in hysteria"
+    ],
+    "femaleTopics": [
+      "Dark stringy menstrual blood",
+      "Bleeding worse at new and full moon",
+      "Sensation of fetal movement"
+    ],
+    "haemorrhageTopics": [
+      "Black, viscid, stringy clots",
+      "Epistaxis at puberty"
+    ],
+    "characteristicSymptoms": [
+      "Something alive jumping in the abdomen",
+      "Anger with violence followed by repentance",
+      "Long black strings of blood"
+    ],
+    "modalities": [
+      "Aggravation from movement and warm room",
+      "Amelioration in open air"
+    ]
+  },
+
+  "traditionalNote": "This entry organizes traditional Homeopathic Materia Medica descriptions for educational and examination-reference purposes. It should not be interpreted as evidence-based medical treatment advice. Saffron is used as a culinary spice; material doses are not a substitute for medical care."
+}

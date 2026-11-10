@@ -1,0 +1,466 @@
+{
+  "id": "MED-002",
+  "slug": "cinchona-officinalis",
+  "name": "Cinchona Officinalis",
+  "commonName": "Peruvian Bark",
+  "scientificName": "Cinchona officinalis",
+  "abbreviation": "Chin.",
+  "synonyms": [
+    "China",
+    "China Officinalis",
+    "Peruvian Bark",
+    "Jesuit's Bark",
+    "Quinine Bark"
+  ],
+
+  "source": "Plant",
+  "origin": "Bark of Cinchona species native to the eastern slopes of the Andes in South America",
+  "naturalOrder": "Rubiaceae (formerly Cinchonaceae)",
+  "family": "Rubiaceae (madder family)",
+  "kingdom": "Plantae",
+  "habitat": "Mountain forests of Peru, Bolivia and Ecuador; cultivated in India, Sri Lanka, Java and parts of Africa",
+  "partUsed": "Dried bark of the stem and branches",
+  "preparation": "Mother tincture and attenuations prepared from the dried bark according to traditional homeopathic pharmacopoeial methods",
+
+  "chemicalConstituents": [
+    "Cinchotannic acid",
+    "Quinic acid",
+    "Volatile oil",
+    "Resinous and bitter principles"
+  ],
+  "alkaloids": [
+    "Quinine (principal alkaloid)",
+    "Quinidine",
+    "Cinchonine",
+    "Cinchonidine"
+  ],
+  "generalAnalysis": "A plant remedy from Peruvian bark whose traditional picture centres on profound debility following the loss of vital fluids, strongly marked periodicity, and a nervous erethism with hypersensitivity to touch, pain and draughts. The classical sources place intermittent fever, tympanitic abdominal distension and haemorrhage with weakness within its sphere.",
+  "sphereOfAction": [
+    "Nervous system",
+    "Digestive system",
+    "Spleen and liver",
+    "Blood and haemorrhages",
+    "Musculoskeletal system"
+  ],
+
+  "drugPicture": {
+    "generalPicture": "A picture of depletion: the patient is weak, pale and oversensitive after haemorrhage, diarrhoea, sexual excesses or other exhausting discharges. Complaints return at regular intervals, the slightest touch is intolerable, and the body feels as though it has been bruised.",
+    "generalCharacteristics": [
+      "Debility from exhausting discharges or loss of vital fluids",
+      "Periodicity, classically every other day",
+      "Oversensitiveness to the slightest touch and to draughts",
+      "Tympanitic distension of the abdomen",
+      "Haemorrhages accompanied by trembling and ringing in the ears"
+    ],
+    "typicalConstitution": "Debilitated, anaemic and hypersensitive constitution with a pale face and low tolerance for fluid loss",
+    "temperament": "Apathetic and despondent, yet nervous and over-reactive",
+    "generalTendencies": [
+      "Debility after loss of fluids",
+      "Periodic return of symptoms",
+      "Flatulent distension",
+      "Haemorrhagic tendency"
+    ],
+    "characteristicFeatures": [
+      "Symptoms recur every other day",
+      "Slightest touch aggravates, while hard pressure relieves",
+      "Abdominal tympany appearing early in the illness",
+      "Weakness out of proportion to the apparent complaint"
+    ]
+  },
+
+  "keySymptoms": {
+    "keynotes": [
+      "Debility from exhausting discharges or loss of vital fluids",
+      "Marked periodicity, especially symptoms returning every other day",
+      "Extreme sensitiveness to touch; hard pressure ameliorates",
+      "Tympanitic distension of the abdomen",
+      "Intermittent fever with thirst and profuse debilitating sweat"
+    ],
+    "guidingSymptoms": [
+      "Weakness, trembling and ringing in the ears after haemorrhage",
+      "Pains as if the limbs and joints were sprained, worse from slight touch",
+      "Hacking cough after every meal",
+      "Headache as if the skull would burst",
+      "Flatulent dyspepsia accompanying other complaints"
+    ],
+    "characteristicSymptoms": [
+      "Every other day periodicity",
+      "Slightest touch aggravates; hard pressure ameliorates",
+      "Scalp sensitive, worse from combing the hair",
+      "Post-operative gas pains not relieved by passing flatus",
+      "Face flushed after haemorrhage or loss of vital fluids"
+    ],
+    "indicatingSymptoms": [
+      "Debility with hypersensitivity to touch",
+      "Complaints recurring at a regular hour or on alternate days",
+      "Anaemia and prostration after haemorrhage or fluid loss"
+    ]
+  },
+
+  "mind": {
+    "general": [
+      "Apathetic and indifferent",
+      "Taciturn and despondent",
+      "Disobedient and averse to being directed",
+      "Ideas crowd the mind and prevent sleep"
+    ],
+    "sadness": [
+      "Despondency with indifference to surroundings"
+    ]
+  },
+
+  "physicalGenerals": {
+    "constitution": "Debilitated, anaemic and sensitive constitution",
+    "temperament": "Apathetic and despondent, with nervous erethism",
+    "thermalState": "Chilly; markedly sensitive to draughts",
+    "coldSensitivity": "Sensitive to cold air and draughts",
+    "weakness": [
+      "Profound debility after loss of vital fluids",
+      "Trembling with weakness",
+      "Weakness from exhausting discharges"
+    ],
+    "sensitivity": [
+      "Whole system oversensitive, especially to touch",
+      "Scalp sensitive; combing the hair aggravates"
+    ],
+    "sidePreference": "No strong classical lateralisation",
+    "generalTendencies": [
+      "Periodicity",
+      "Haemorrhagic tendency",
+      "Flatulent distension",
+      "Debility"
+    ]
+  },
+
+  "causation": [
+    "Loss of vital fluids (haemorrhage, diarrhoea, sexual excesses)",
+    "Exhausting discharges",
+    "Abuse of mercury",
+    "Excessive tea drinking (traditional observation)"
+  ],
+
+  "modalities": {
+    "aggravation": [
+      "Slightest touch",
+      "Draught of air",
+      "Every other day",
+      "At night",
+      "After eating",
+      "Bending over"
+    ],
+    "amelioration": [
+      "Bending double",
+      "Hard pressure",
+      "Open air",
+      "Warmth"
+    ]
+  },
+
+  "foodAndAppetite": {
+    "appetite": "Appetite impaired; eating aggravates the complaints",
+    "thirst": "Thirst, often intense, during fever",
+    "aggravations": [
+      "After eating",
+      "Tea"
+    ]
+  },
+
+  "sleepAndDreams": {
+    "sleep": [
+      "Sleep disturbed by crowding ideas"
+    ],
+    "insomnia": [
+      "Sleeplessness from a crowd of thoughts"
+    ]
+  },
+
+  "particulars": {
+    "head": [
+      "Headache as if the skull would burst",
+      "Sensation as if the brain were balancing to and fro and striking against the skull",
+      "Intense throbbing of the head and carotids",
+      "Spasmodic vertex headache followed by bruised pain in the sides of the head",
+      "Scalp sensitive; combing the hair is painful"
+    ],
+    "face": [
+      "Face flushed after haemorrhage, sexual excesses or loss of vital fluids"
+    ],
+    "git": [
+      "Tympanitic distension with a drum-like percussion note",
+      "Flatulent dyspepsia accompanying other complaints",
+      "Post-operative gas pains unrelieved by passing flatus",
+      "Diarrhoea after eating or drinking"
+    ],
+    "respiratory": [
+      "Suffocative catarrh with rattling in the chest",
+      "Violent hacking cough after every meal",
+      "Cannot breathe with the head low",
+      "Dyspnoea with sharp pain in the left lung"
+    ],
+    "extremitiesAndJoints": [
+      "Pains in the limbs and joints as if sprained",
+      "Sensation of a string around the limb",
+      "Joints swollen and very sensitive",
+      "Trembling with a numb sensation"
+    ]
+  },
+
+  "fever": {
+    "chill": [
+      "Chilliness with sensitivity to draughts"
+    ],
+    "heat": [
+      "Heat with thirst and headache"
+    ],
+    "sweat": [
+      "Profuse, debilitating sweat"
+    ],
+    "pattern": "Intermittent and periodic",
+    "periodicity": "Classically returns every other day",
+    "time": [
+      "Paroxysms tend to recur at the same hour"
+    ],
+    "stages": [
+      "Cold stage with chilliness",
+      "Hot stage with thirst",
+      "Sweating stage with profound debility"
+    ],
+    "associatedSymptoms": [
+      "Thirst",
+      "Headache",
+      "Tympanitic distension"
+    ],
+    "modalities": [
+      "Aggravated by draughts and touch"
+    ]
+  },
+
+  "haemorrhage": {
+    "characterOfBlood": "Dark or bright according to the source, with marked debility afterwards",
+    "causes": [
+      "Loss of vital fluids",
+      "Haemorrhage from any orifice"
+    ],
+    "associatedSymptoms": [
+      "Trembling",
+      "Ringing and buzzing in the ears",
+      "Anaemia and prostration"
+    ]
+  },
+
+  "discharges": {
+    "character": "Exhausting discharges that leave the patient weak",
+    "modalities": [
+      "Weakness is proportional to the loss of fluid"
+    ]
+  },
+
+  "sensations": [
+    "Bursting sensation in the head",
+    "Brain balancing to and fro",
+    "String-like sensation around a limb",
+    "Bruised feeling in the head",
+    "Tympanitic fullness of the abdomen"
+  ],
+
+  "locationAndDirection": {
+    "location": [
+      "Head",
+      "Spleen and abdomen",
+      "Limbs and joints"
+    ]
+  },
+
+  "concomitants": [
+    "Flatulent dyspepsia with other complaints",
+    "Tinnitus with haemorrhage",
+    "Debility with every discharge"
+  ],
+
+  "pediatric": {
+    "general": [
+      "Debility after exhausting illness"
+    ],
+    "behaviour": [
+      "Apathetic and indifferent"
+    ],
+    "fever": [
+      "Intermittent fever in children"
+    ],
+    "digestive": [
+      "Flatulent colic",
+      "Diarrhoea after eating"
+    ],
+    "characteristicSymptoms": [
+      "Hydrocephaloid state after exhausting diarrhoea (traditional description)"
+    ]
+  },
+
+  "constitutionAndLifeStage": {
+    "constitution": "Debilitated, sensitive and anaemic",
+    "age": "Any age; the classical picture follows depletion rather than age",
+    "lifeStage": "After haemorrhage, childbirth, exhausting illness or fluid loss",
+    "typicalPatientPicture": "A weakened, pale and oversensitive person who is worse from the slightest touch and whose complaints return at regular intervals."
+  },
+
+  "compareWith": [
+    {
+      "medicine": "Arsenicum album",
+      "similarities": [
+        "Debility",
+        "Gastrointestinal disturbance",
+        "Chilliness"
+      ],
+      "differences": [
+        "Arsenicum has marked anxiety and restlessness; Cinchona is more apathetic and despondent",
+        "Arsenicum debility typically follows overexertion; Cinchona debility follows loss of vital fluids",
+        "Cinchona is far more strongly periodic"
+      ]
+    },
+    {
+      "medicine": "Ferrum metallicum",
+      "similarities": [
+        "Anaemia",
+        "Weakness",
+        "Flushed face"
+      ],
+      "differences": [
+        "Ferrum suits pure anaemia with a plethoric appearance",
+        "Cinchona is indicated when debility follows loss of fluids",
+        "Ferrum is listed as complementary to Cinchona"
+      ]
+    },
+    {
+      "medicine": "Carbo vegetabilis",
+      "similarities": [
+        "Flatulence",
+        "Weakness",
+        "Diarrhoea"
+      ],
+      "differences": [
+        "Carbo vegetabilis has coldness and collapse with desire for air",
+        "The Cinchona stool is induced by every attempt to eat or drink",
+        "Cinchona has marked periodicity, which Carbo vegetabilis lacks"
+      ]
+    },
+    {
+      "medicine": "Phosphoric acid",
+      "similarities": [
+        "Debility with copious stools"
+      ],
+      "differences": [
+        "Phosphoric acid stools are frequent and copious without proportionate debility",
+        "Cinchona stools are followed by marked prostration"
+      ]
+    }
+  ],
+
+  "relationships": {
+    "complementary": [
+      "Ferrum metallicum",
+      "Calcarea phosphorica"
+    ],
+    "antidotes": [
+      "Arnica montana",
+      "Arsenicum album",
+      "Nux vomica",
+      "Ipecacuanha"
+    ],
+    "followsWell": [
+      "Calcarea phosphorica (in hydrocephaloid states)"
+    ],
+    "relatedRemedies": [
+      "Digitalis purpurea (listed as incompatible after)",
+      "Selenium (listed as incompatible after)"
+    ]
+  },
+
+  "therapeuticApplications": {
+    "note": "The following are traditional homeopathic Materia Medica associations for educational study only. They are not evidence-based medical treatment recommendations. Intermittent fevers such as malaria require proper medical diagnosis and treatment.",
+    "applications": [
+      "Traditional association with periodic and intermittent fevers",
+      "Debility following haemorrhage or other loss of vital fluids",
+      "Flatulent dyspepsia with tympanitic distension",
+      "Haemorrhages accompanied by weakness and tinnitus",
+      "Pains in the limbs and joints with marked touch sensitivity"
+    ]
+  },
+
+  "quickRevision": {
+    "keyPoints": [
+      "Loss of vital fluids",
+      "Periodicity every other day",
+      "Oversensitive to touch",
+      "Tympanitic abdomen",
+      "Debility with haemorrhage"
+    ],
+    "mind": [
+      "Apathetic",
+      "Despondent",
+      "Crowding of ideas"
+    ],
+    "physicalGenerals": [
+      "Chilly and sensitive to draughts",
+      "Profound debility",
+      "Anaemia"
+    ],
+    "modalities": [
+      "Aggravation from slightest touch and after eating",
+      "Amelioration from hard pressure and bending double"
+    ],
+    "foodAndThirst": [
+      "Thirst during fever",
+      "Eating aggravates"
+    ],
+    "majorSystems": [
+      "Digestive",
+      "Spleen and liver",
+      "Blood",
+      "Nervous"
+    ],
+    "characteristicSymptoms": [
+      "Debility from loss of vital fluids",
+      "Periodicity every other day",
+      "Slightest touch aggravates, hard pressure relieves"
+    ]
+  },
+
+  "examFocus": {
+    "importantConcepts": [
+      "Periodicity",
+      "Debility from loss of fluids",
+      "Hypersensitivity to touch",
+      "Tympanites",
+      "Intermittent fever"
+    ],
+    "frequentlyAskedTopics": [
+      "Characteristic symptoms of Cinchona officinalis",
+      "Cinchona in intermittent fever",
+      "Comparison of Cinchona with Arsenicum album and Ferrum metallicum"
+    ],
+    "shortNoteTopics": [
+      "Cinchona officinalis",
+      "China in debility from loss of vital fluids"
+    ],
+    "compareQuestions": [
+      "Cinchona versus Arsenicum album in debility",
+      "Cinchona versus Ferrum metallicum in anaemia",
+      "Cinchona versus Carbo vegetabilis in flatulent dyspepsia"
+    ],
+    "feverTopics": [
+      "Periodicity in intermittent fever",
+      "Thirst and sweat in the Cinchona fever picture"
+    ],
+    "characteristicSymptoms": [
+      "Every other day periodicity",
+      "Slightest touch aggravates",
+      "Tympanitic distension"
+    ],
+    "modalities": [
+      "Aggravation from touch, draughts and after eating",
+      "Amelioration from hard pressure and bending double"
+    ]
+  },
+
+  "traditionalNote": "This entry organizes traditional Homeopathic Materia Medica descriptions for educational and examination-reference purposes. Cinchona officinalis is the source of quinine, a conventional antimalarial medicine; this profile does not suggest that homeopathic Cinchona is an evidence-based treatment for malaria or any other condition."
+}
