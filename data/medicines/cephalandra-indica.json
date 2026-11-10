@@ -1,0 +1,300 @@
+{
+  "id": "MED-004",
+  "slug": "cephalandra-indica",
+  "name": "Cephalandra Indica",
+  "commonName": "Ivy Gourd",
+  "scientificName": "Coccinia grandis (synonyms: Coccinia indica, Cephalandra indica)",
+  "abbreviation": "Ceph.",
+  "synonyms": [
+    "Coccinia indica",
+    "Coccinia grandis",
+    "Cephalandra indica",
+    "Ivy Gourd",
+    "Telakucha",
+    "Kundru",
+    "Scarlet-fruited Gourd"
+  ],
+
+  "source": "Plant",
+  "origin": "Native to India and tropical Asia; also found in tropical Africa",
+  "naturalOrder": "Cucurbitales",
+  "family": "Cucurbitaceae (gourd family)",
+  "kingdom": "Plantae",
+  "habitat": "A climbing vine of tropical and subtropical regions, often growing wild on fences and trees",
+  "partUsed": "Fresh leaves and aerial parts; the fruit and root are also used in traditional practice",
+  "preparation": "Mother tincture prepared from the fresh plant; also used in low attenuations in traditional Indian practice",
+
+  "chemicalConstituents": [
+    "Cucurbitacin-type bitter principles",
+    "Resins",
+    "Enzyme principles (reported)",
+    "Sugars and mucilage"
+  ],
+  "alkaloids": [
+    "Traces of an alkaloid reported in the plant"
+  ],
+  "generalAnalysis": "A remedy that comes from Indian clinical practice rather than the classical provings of Boericke or Clarke. Its traditional picture is built around profuse urination with exhaustion, intense thirst, dryness of the mouth and burning sensations relieved by cold, together with recurrent boils and carbuncles. It is studied chiefly for its traditional association with the diabetic symptom picture, which must not be confused with evidence of treatment.",
+  "sphereOfAction": [
+    "Urinary system",
+    "Metabolic and endocrine system (traditional association)",
+    "Skin",
+    "Digestive system",
+    "Eyes"
+  ],
+
+  "drugPicture": {
+    "generalPicture": "A picture of fluid loss and burning: the patient passes large quantities of urine and feels exhausted afterwards, is very thirsty for large draughts of water, has a dry burning mouth and a burning sensation over the body that cold applications relieve. Boils and carbuncles may recur, and giddiness is worse after urination.",
+    "generalCharacteristics": [
+      "Profuse urination with exhaustion and weakness afterwards",
+      "Great thirst for large quantities of water at a time",
+      "Dryness of the mouth with burning",
+      "Burning sensations all over the body, better from cold",
+      "Recurrent boils, carbuncles and abscesses",
+      "Giddiness worse after urination"
+    ],
+    "typicalConstitution": "Described in traditional Indian practice in adults with a diabetic picture of polyuria, thirst and debility",
+    "temperament": "Morose, fretful and disinclined to work",
+    "generalTendencies": [
+      "Polyuria with debility",
+      "Burning pains",
+      "Boils and slow-healing skin lesions",
+      "Biliousness and flatulent distension"
+    ],
+    "characteristicFeatures": [
+      "Weakness and exhaustion after passing urine",
+      "Burning relieved by anything cold",
+      "Redness and burning of the face",
+      "Headache from exposure to the sun"
+    ]
+  },
+
+  "keySymptoms": {
+    "keynotes": [
+      "Copious urination with exhaustion and weakness afterwards",
+      "Great thirst for large quantities of water at a time",
+      "Dryness of the mouth with burning",
+      "Burning all over the body, ameliorated by cold applications",
+      "Recurrent boils and carbuncles (traditional clinical association)",
+      "Giddiness worse after urination"
+    ],
+    "guidingSymptoms": [
+      "Redness of the face with burning",
+      "Burning of the eyes",
+      "Biliousness with distension of the abdomen",
+      "Greenish mucous stools mixed or tinged with blood",
+      "Sugar in the urine (traditional clinical observation)"
+    ],
+    "characteristicSymptoms": [
+      "Worse after urination",
+      "Amelioration from cold bathing and cold applications",
+      "Headache from exposure to the sun",
+      "Dry mouth with thirst for large draughts"
+    ],
+    "indicatingSymptoms": [
+      "Polyuria with post-micturition exhaustion",
+      "Burning pains with redness of the face",
+      "Recurrent boils in a patient with thirst and polyuria"
+    ]
+  },
+
+  "mind": {
+    "general": [
+      "Morose and fretful",
+      "Disinclined to do any work",
+      "Gloomy"
+    ],
+    "sadness": [
+      "Gloomy mood with aversion to activity"
+    ]
+  },
+
+  "physicalGenerals": {
+    "constitution": "Traditional clinical picture in adults with polyuria, thirst and debility",
+    "temperament": "Morose and fretful",
+    "thermalState": "Warm; burning sensations with intolerance of heat",
+    "heatSensitivity": "Burning of the face, eyes and body; worse from exposure to the sun",
+    "weakness": [
+      "Weakness and exhaustion after urination",
+      "General debility"
+    ],
+    "sensitivity": [
+      "Oversensitive to external impressions (traditional description)"
+    ],
+    "generalTendencies": [
+      "Burning pains",
+      "Polyuria with debility",
+      "Boils and slow-healing skin lesions"
+    ]
+  },
+
+  "causation": [
+    "Exposure to the sun"
+  ],
+
+  "modalities": {
+    "aggravation": [
+      "After urination",
+      "Heat and exposure to the sun"
+    ],
+    "amelioration": [
+      "Cold applications",
+      "Cold bathing"
+    ]
+  },
+
+  "foodAndAppetite": {
+    "appetite": "Loss of appetite",
+    "thirst": "Great thirst for large quantities of water at a time, worse after urination"
+  },
+
+  "particulars": {
+    "head": [
+      "Giddiness, worse after urination",
+      "Headache from exposure to the sun"
+    ],
+    "eyes": [
+      "Burning of the eyes"
+    ],
+    "face": [
+      "Redness of the face with burning"
+    ],
+    "mouth": [
+      "Excessive dryness of the mouth with great thirst"
+    ],
+    "git": [
+      "Abdomen full of wind and distended",
+      "Biliousness",
+      "Greenish mucous stools, mixed or tinged with blood, with pain before and during stool"
+    ],
+    "urinary": [
+      "Copious urine passed at a time; clear",
+      "Sugar in the urine (traditional clinical observation)",
+      "Weakness and exhaustion after passing urine"
+    ],
+    "skin": [
+      "Boils, carbuncles and abscesses",
+      "Burning pains in skin lesions"
+    ]
+  },
+
+  "fever": {
+    "heat": [
+      "Burning heat with redness of the face"
+    ],
+    "associatedSymptoms": [
+      "Burning of the eyes",
+      "Thirst",
+      "Burning of the body"
+    ]
+  },
+
+  "sensations": [
+    "Burning all over the body",
+    "Dryness of the mouth",
+    "Weakness after urination",
+    "Giddiness"
+  ],
+
+  "locationAndDirection": {
+    "location": [
+      "Urinary tract",
+      "Face and eyes",
+      "Skin",
+      "Abdomen"
+    ]
+  },
+
+  "concomitants": [
+    "Burning with thirst",
+    "Polyuria with exhaustion",
+    "Boils with burning"
+  ],
+
+  "constitutionAndLifeStage": {
+    "constitution": "Traditional clinical rather than constitutional picture",
+    "age": "Adults, especially in middle or later life in clinical reports",
+    "lifeStage": "Chronic metabolic complaints in adulthood",
+    "typicalPatientPicture": "A thirsty patient passing large quantities of urine, exhausted afterwards, with burning sensations and recurrent boils."
+  },
+
+  "relationships": {},
+
+  "therapeuticApplications": {
+    "note": "These are traditional homeopathic and Indian clinical associations for educational study only; they are not evidence-based treatment recommendations. Diabetes mellitus requires medical diagnosis, monitoring and treatment. Homeopathic Cephalandra must never replace prescribed diabetes care or insulin.",
+    "applications": [
+      "Traditional association with the diabetic symptom picture (polyuria, thirst, boils)",
+      "Traditional use for boils, carbuncles and abscesses",
+      "Traditional use for burning sensations over the body",
+      "Traditional use for biliousness and flatulent distension",
+      "Traditional use for headache from exposure to the sun"
+    ]
+  },
+
+  "quickRevision": {
+    "keyPoints": [
+      "Polyuria with exhaustion",
+      "Great thirst for large draughts",
+      "Burning better from cold",
+      "Boils and carbuncles",
+      "Giddiness after urination"
+    ],
+    "mind": [
+      "Morose",
+      "Fretful",
+      "Disinclined to work"
+    ],
+    "physicalGenerals": [
+      "Burning sensations",
+      "Debility",
+      "Dryness"
+    ],
+    "modalities": [
+      "Aggravation after urination and from heat",
+      "Amelioration from cold applications"
+    ],
+    "foodAndThirst": [
+      "Loss of appetite",
+      "Intense thirst for large quantities of water"
+    ],
+    "majorSystems": [
+      "Urinary",
+      "Skin",
+      "Digestive",
+      "Eyes"
+    ],
+    "characteristicSymptoms": [
+      "Exhaustion after urination",
+      "Burning better from cold",
+      "Recurrent boils"
+    ]
+  },
+
+  "examFocus": {
+    "importantConcepts": [
+      "Remedy from Indian clinical practice",
+      "Polyuria with debility",
+      "Burning ameliorated by cold",
+      "Boils and carbuncles",
+      "Traditional diabetic picture"
+    ],
+    "frequentlyAskedTopics": [
+      "Cephalandra indica in the traditional diabetic picture",
+      "Burning sensations of Cephalandra indica",
+      "Cephalandra indica and boils"
+    ],
+    "shortNoteTopics": [
+      "Cephalandra indica"
+    ],
+    "characteristicSymptoms": [
+      "Weakness after urination",
+      "Burning better from cold applications",
+      "Thirst for large quantities of water"
+    ],
+    "modalities": [
+      "Aggravation after urination and from the sun",
+      "Amelioration from cold"
+    ]
+  },
+
+  "traditionalNote": "Cephalandra indica is not a classical remedy in Boericke or Clarke; its materia medica rests largely on Indian provings and clinical reports, so no classical remedy relationships are listed. This entry is educational only and does not present homeopathy as an evidence-based treatment for diabetes or any other disease."
+}

@@ -1,0 +1,443 @@
+{
+  "id": "MED-003",
+  "slug": "cuprum-metallicum",
+  "name": "Cuprum Metallicum",
+  "commonName": "Copper",
+  "scientificName": "Cuprum metallicum (Cu)",
+  "abbreviation": "Cupr.",
+  "synonyms": [
+    "Copper",
+    "Metallic Copper",
+    "Cuprum"
+  ],
+
+  "source": "Mineral",
+  "origin": "Metallic copper obtained from copper ores and native copper deposits",
+  "naturalOrder": "Native metal",
+  "family": "Transition metal (Group 11)",
+  "kingdom": "Mineral",
+  "habitat": "Found native and in copper ores worldwide",
+  "partUsed": "Pure metallic copper",
+  "preparation": "Trituration of pure metallic copper, followed by successive attenuations",
+
+  "chemicalConstituents": [
+    "Copper (Cu), essentially pure in the homeopathic preparation"
+  ],
+  "generalAnalysis": "A mineral remedy whose traditional picture is dominated by violent, spasmodic and convulsive phenomena. Cramps and convulsions classically begin in the fingers and toes and spread centrally, with blueness and coldness of the surface, intense nausea, and a striking amelioration from drinking cold water.",
+  "sphereOfAction": [
+    "Nervous system",
+    "Muscular system",
+    "Gastrointestinal system",
+    "Respiratory system",
+    "Circulatory system"
+  ],
+
+  "drugPicture": {
+    "generalPicture": "A picture of violent spasm. The patient is seized by cramps or convulsions that begin in the extremities, with piercing cries, a bluish or livid face, cold hands and intense nausea. The attacks recur periodically and in groups, and a swallow of cold water often brings relief.",
+    "generalCharacteristics": [
+      "Spasms and cramps of a violent, contractive character",
+      "Convulsions beginning in the fingers and toes",
+      "Thumbs clenched into the palms during spasms",
+      "Blueness of the face, lips and nails with coldness",
+      "Nausea and vomiting relieved by drinking cold water",
+      "Symptoms appear periodically and in groups"
+    ],
+    "typicalConstitution": "Spasmodic and irritable constitution, seen in children as well as in debilitated or prematurely aged adults",
+    "temperament": "Anxious, restless and easily thrown into violent reaction",
+    "generalTendencies": [
+      "Spasms and convulsions",
+      "Cyanosis during attacks",
+      "Sudden prostration and collapse",
+      "Periodicity in groups"
+    ],
+    "characteristicFeatures": [
+      "Aura of epilepsy begins in the knees and ascends",
+      "Clenched thumbs during convulsions",
+      "Strong metallic, slimy taste with salivation",
+      "Complaints may begin on the left side",
+      "Violent effects with easy relapse"
+    ]
+  },
+
+  "keySymptoms": {
+    "keynotes": [
+      "Cramps and convulsions beginning in the fingers and toes",
+      "Thumbs clenched into the palms, with the fingers closing over them",
+      "Epileptic aura beginning in the knees and ascending",
+      "Nausea and vomiting relieved by drinking cold water",
+      "Strong metallic, slimy taste with flow of saliva",
+      "Cramps in the calves and soles",
+      "Bluish or livid face, lips and nails during spasms"
+    ],
+    "guidingSymptoms": [
+      "Piercing shrieks during convulsions",
+      "Spasms followed by death-like stillness",
+      "Whooping cough with a purple face, better from a swallow of cold water",
+      "Coldness of the hands with jerking and twitching of the muscles",
+      "Hiccough preceding the spasms",
+      "When drinking, the fluid descends with a gurgling sound"
+    ],
+    "characteristicSymptoms": [
+      "Convulsions with clenched thumbs and cyanosis",
+      "Vomiting, colic, diarrhoea and cramps occurring together",
+      "Ailments from suppressed eruptions, as in scarlet fever",
+      "Chorea brought on by fright",
+      "Pains increased by movement and touch"
+    ],
+    "indicatingSymptoms": [
+      "Spasms that begin peripherally and move centrally",
+      "Violent cramps with cold, blue extremities",
+      "Nausea relieved by cold water"
+    ]
+  },
+
+  "mind": {
+    "general": [
+      "Anxious and restless during spasms",
+      "Mental and physical exhaustion after prolonged mental exertion or loss of sleep"
+    ],
+    "anxiety": [
+      "Attacks of unconquerable anxiety"
+    ],
+    "restlessness": [
+      "Restless tossing with deathly anxiety"
+    ],
+    "concentration": [
+      "Mental exhaustion from over-exertion of mind"
+    ],
+    "anger": [
+      "Anger may precede or accompany the spasmodic state"
+    ]
+  },
+
+  "physicalGenerals": {
+    "constitution": "Spasmodic, irritable constitution; often debilitated or prematurely aged",
+    "temperament": "Anxious and violent in reaction",
+    "thermalState": "Chilly, with cold extremities and blueness during attacks",
+    "coldSensitivity": "Cold hands and feet; bluish face, lips and nails during spasms",
+    "weakness": [
+      "Sudden prostration and collapse",
+      "Great weariness of the limbs",
+      "Weak, scarcely perceptible pulse during severe attacks"
+    ],
+    "sensitivity": [
+      "Pains increased by movement and touch"
+    ],
+    "sidePreference": "Complaints may begin on the left side",
+    "generalTendencies": [
+      "Spasms and cramps",
+      "Cyanosis",
+      "Collapse",
+      "Periodic attacks in groups"
+    ]
+  },
+
+  "causation": [
+    "Fright",
+    "Suppressed eruptions or discharges",
+    "Anger",
+    "Over-exertion of mind",
+    "Loss of sleep"
+  ],
+
+  "modalities": {
+    "aggravation": [
+      "Before menses",
+      "From vomiting",
+      "Contact and touch",
+      "Movement",
+      "Night"
+    ],
+    "amelioration": [
+      "Drinking cold water",
+      "During perspiration",
+      "Pressure over the heart",
+      "Stretching the affected limb (calf cramp)"
+    ]
+  },
+
+  "foodAndAppetite": {
+    "appetite": "Intense nausea may dominate the picture",
+    "cravings": [
+      "Cold drinks"
+    ],
+    "thirst": "Craves cool water",
+    "ameliorations": [
+      "Cold water relieves vomiting, colic, cough and spasm"
+    ]
+  },
+
+  "sleepAndDreams": {
+    "sleep": [
+      "Suffocative attacks around 3 a.m."
+    ],
+    "insomnia": [
+      "Loss of sleep may precipitate the complaints"
+    ]
+  },
+
+  "particulars": {
+    "head": [
+      "Violent headache with nausea"
+    ],
+    "face": [
+      "Pale, bluish or livid face during spasms"
+    ],
+    "mouth": [
+      "Strong metallic, slimy taste with salivation"
+    ],
+    "git": [
+      "Nausea greater than in most remedies",
+      "Vomiting relieved by drinking cold water",
+      "Colic with diarrhoea and cramps",
+      "Hiccough preceding the spasms",
+      "Fluid descends with a gurgling sound when drinking"
+    ],
+    "respiratory": [
+      "Spasmodic cough with a purple face",
+      "Whooping cough better from a swallow of cold water",
+      "Suffocative attacks around 3 a.m."
+    ],
+    "heartAndCirculation": [
+      "Palpitation with anxiety",
+      "Constriction with bluish lips and cold extremities"
+    ],
+    "femaleGenital": [
+      "Menses too late and protracted",
+      "Cramps before, during or after suppressed menses"
+    ],
+    "extremitiesAndJoints": [
+      "Clonic spasms beginning in the fingers and toes",
+      "Clenched thumbs",
+      "Cramps in the calves and soles",
+      "Coldness of the hands",
+      "Jerking and twitching of the muscles"
+    ],
+    "urinary": [
+      "Suppression of urine associated with convulsions (traditional description)"
+    ],
+    "skin": [
+      "Suppressed eruptions may be followed by vomiting, stupor or convulsions"
+    ],
+    "nerves": [
+      "Chorea after fright",
+      "Epileptic aura beginning in the knees"
+    ]
+  },
+
+  "fever": {
+    "chill": [
+      "Chilliness with cold, blue extremities"
+    ],
+    "heat": [
+      "Heat of the head with cold hands during spasms"
+    ],
+    "sweat": [
+      "Cold sweat with collapse"
+    ],
+    "pattern": "Attacks appear periodically and in groups",
+    "associatedSymptoms": [
+      "Nausea",
+      "Cramps",
+      "Cyanosis"
+    ]
+  },
+
+  "sensations": [
+    "Cramping and contractive pain",
+    "Coldness of the extremities",
+    "Metallic taste",
+    "Constriction of the chest"
+  ],
+
+  "locationAndDirection": {
+    "location": [
+      "Fingers and toes",
+      "Calves and soles",
+      "Abdomen",
+      "Chest"
+    ],
+    "side": "May begin on the left side",
+    "direction": [
+      "Spasms ascend from the knees",
+      "Cramps spread from the fingers and toes toward the body"
+    ]
+  },
+
+  "concomitants": [
+    "Nausea and vomiting with cramps",
+    "Cold sweat with spasms",
+    "Cyanosis with convulsions"
+  ],
+
+  "pediatric": {
+    "general": [
+      "Convulsions in children"
+    ],
+    "behaviour": [
+      "Piercing shrieks during spasms"
+    ],
+    "fever": [
+      "Convulsions with fever"
+    ],
+    "digestive": [
+      "Colic with vomiting"
+    ],
+    "characteristicSymptoms": [
+      "Clenched thumbs during convulsions",
+      "Whooping cough with a purple face and exhaustion after the paroxysm"
+    ]
+  },
+
+  "constitutionAndLifeStage": {
+    "constitution": "Spasmodic and irritable",
+    "age": "Especially children and debilitated or prematurely aged adults",
+    "lifeStage": "During teething and childhood illnesses, and in old age with cramps",
+    "typicalPatientPicture": "A patient prone to violent cramps and spasms, with cold blue extremities, intense nausea and a marked relief from cold drinks."
+  },
+
+  "compareWith": [
+    {
+      "medicine": "Belladonna",
+      "similarities": [
+        "Convulsions",
+        "Sudden onset",
+        "Violent symptoms"
+      ],
+      "differences": [
+        "Belladonna has a hot, red face and dilated pupils; Cuprum has a cold, blue or livid face",
+        "Belladonna is worse from light, noise and jarring",
+        "Cuprum spasms often begin in the fingers and toes with clenched thumbs"
+      ]
+    },
+    {
+      "medicine": "Cicuta virosa",
+      "similarities": [
+        "Convulsions",
+        "Spasmodic affections"
+      ],
+      "differences": [
+        "Cicuta features opisthotonos and marked head retraction",
+        "Cuprum is more often associated with peripheral onset and cyanosis",
+        "The Cuprum picture includes intense nausea and relief from cold water"
+      ]
+    },
+    {
+      "medicine": "Veratrum album",
+      "similarities": [
+        "Cramps",
+        "Cold sweat",
+        "Collapse"
+      ],
+      "differences": [
+        "Veratrum album has profuse watery diarrhoea and vomiting with icy coldness",
+        "Cuprum is dominated by spasms and convulsions rather than fluid loss",
+        "Cuprum has the characteristic metallic taste and cold-water amelioration"
+      ]
+    }
+  ],
+
+  "relationships": {
+    "complementary": [
+      "Calcarea carbonica"
+    ],
+    "antidotes": [
+      "Belladonna",
+      "Hepar sulphuris",
+      "Camphora"
+    ],
+    "relatedRemedies": [
+      "Cuprum sulphuricum (burning at the vertex; spasmodic cough)"
+    ]
+  },
+
+  "therapeuticApplications": {
+    "note": "The following are traditional homeopathic Materia Medica associations for educational study only. They are not evidence-based medical treatment recommendations. Convulsions, whooping cough and severe cramps require urgent medical assessment.",
+    "applications": [
+      "Traditional association with convulsions and spasms",
+      "Nocturnal cramps of the calves and soles in debilitated or elderly patients",
+      "Spasmodic cough and the whooping-cough picture",
+      "Nausea and vomiting with cramps",
+      "Complaints following suppressed eruptions"
+    ]
+  },
+
+  "quickRevision": {
+    "keyPoints": [
+      "Violent cramps and convulsions",
+      "Begins in fingers and toes",
+      "Clenched thumbs",
+      "Blue face and cold extremities",
+      "Better from cold water"
+    ],
+    "mind": [
+      "Unconquerable anxiety",
+      "Restless tossing",
+      "Anger preceding spasms"
+    ],
+    "physicalGenerals": [
+      "Cyanosis",
+      "Coldness",
+      "Sudden collapse",
+      "Periodicity in groups"
+    ],
+    "modalities": [
+      "Aggravation before menses, from touch, movement and vomiting",
+      "Amelioration from cold drinks and during perspiration"
+    ],
+    "foodAndThirst": [
+      "Craves cold drinks",
+      "Cold water relieves vomiting and spasm"
+    ],
+    "majorSystems": [
+      "Nervous",
+      "Muscular",
+      "Digestive",
+      "Respiratory"
+    ],
+    "characteristicSymptoms": [
+      "Clenched thumbs during convulsions",
+      "Epileptic aura beginning in the knees",
+      "Metallic taste with salivation"
+    ]
+  },
+
+  "examFocus": {
+    "importantConcepts": [
+      "Spasms and convulsions",
+      "Peripheral onset of cramps",
+      "Cyanosis",
+      "Cold-water amelioration",
+      "Periodicity in groups"
+    ],
+    "frequentlyAskedTopics": [
+      "Characteristic symptoms of Cuprum metallicum",
+      "Cuprum in convulsions and cramps",
+      "Cuprum in whooping cough"
+    ],
+    "shortNoteTopics": [
+      "Cuprum metallicum",
+      "Cuprum in spasmodic affections"
+    ],
+    "compareQuestions": [
+      "Cuprum versus Belladonna in convulsions",
+      "Cuprum versus Veratrum album in cramps and collapse",
+      "Cuprum versus Cicuta virosa in convulsions"
+    ],
+    "pediatricTopics": [
+      "Convulsions in children with clenched thumbs",
+      "Whooping cough with a purple face"
+    ],
+    "characteristicSymptoms": [
+      "Cramps beginning in the fingers and toes",
+      "Aura beginning in the knees",
+      "Metallic taste with salivation"
+    ],
+    "modalities": [
+      "Aggravation from touch, movement and before menses",
+      "Amelioration from cold water"
+    ]
+  },
+
+  "traditionalNote": "This entry organizes traditional Homeopathic Materia Medica descriptions for educational and examination-reference purposes. It should not be interpreted as evidence-based medical treatment advice. Copper is toxic in material doses; convulsions and severe cramps are medical emergencies."
+}
