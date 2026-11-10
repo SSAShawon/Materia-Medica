@@ -1,6 +1,14 @@
 import Link from "next/link";
 
-export default function Hero() {
+import { getFeaturedMedicine } from "@/lib/medicines";
+
+export default async function Hero() {
+  const featured = await getFeaturedMedicine();
+
+  const nameParts = (featured?.name ?? "Materia Medica").split(" ");
+  const firstName = nameParts[0];
+  const remainingName = nameParts.slice(1).join(" ");
+
   return (
     <section className="relative overflow-hidden border-b border-border bg-ivory-50">
       {/* Decorative Elements */}
@@ -127,27 +135,28 @@ export default function Hero() {
               </div>
 
               <span className="text-xs text-white/40">
-                MED-001
+                {featured?.id ?? "Materia Medica"}
               </span>
             </div>
 
             {/* Remedy */}
             <div className="py-12">
               <p className="text-sm italic text-gold-400">
-                Ars.
+                {featured?.abbreviation ?? "Materia Medica"}
               </p>
 
               <h2 className="mt-3 text-4xl font-semibold tracking-tight text-white sm:text-5xl">
-                Arsenicum
-                <span className="block font-serif italic font-normal text-white/70">
-                  Album
-                </span>
+                {firstName}
+                {remainingName && (
+                  <span className="block font-serif italic font-normal text-white/70">
+                    {remainingName}
+                  </span>
+                )}
               </h2>
 
-              <p className="mt-5 max-w-sm text-sm leading-7 text-white/55">
-                A structured remedy profile with key symptoms,
-                modalities, mental picture, physical generals,
-                systems and examination-focused revision points.
+              <p className="mt-5 line-clamp-4 max-w-sm text-sm leading-7 text-white/55">
+                {featured?.drugPicture?.generalPicture ??
+                  "A structured remedy library with key symptoms, modalities, mental picture, physical generals, systems and examination-focused revision points."}
               </p>
             </div>
 
@@ -172,10 +181,14 @@ export default function Hero() {
               </span>
 
               <Link
-                href="/materia-medica/arsenicum-album"
+                href={
+                  featured
+                    ? `/materia-medica/${featured.slug}`
+                    : "/materia-medica"
+                }
                 className="text-xs font-medium text-gold-400 transition-colors hover:text-gold-500"
               >
-                View Remedy →
+                {featured ? "View Remedy" : "Open Library"} →
               </Link>
             </div>
           </div>
